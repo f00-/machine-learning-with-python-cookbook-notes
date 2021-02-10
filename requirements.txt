@@ -13,7 +13,7 @@ cffi==1.11.5
 chardet==3.0.4
 clyent==1.2.2
 constantly==15.1.0
-cryptography==3.2
+cryptography==3.3.2
 cycler==0.10.0
 decorator==4.3.0
 entrypoints==0.2.3
